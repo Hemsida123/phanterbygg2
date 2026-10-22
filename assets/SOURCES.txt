@@ -1,0 +1,31 @@
+PhanterByggs egen logotyp, foton och film, hämtade 2026-10-22 från https://www.phanterbygg.nu/wp-content/uploads/.
+Lokala kopior eliminerar beroendet av det tidigare domännamnet. Kundens aktuella webbplats är https://www.phanterbygg.se/.
+
+logo.webp: 2025/02/Logga.webp
+hus.webp: 2025/02/1.jpg.webp
+byggnadsvard.webp: sb-instagram-feed-images/789617546_17967033999151010_7165400887112655319_nfull.webp
+kok.webp: sb-instagram-feed-images/830899926_17971668930151010_4804918552795109928_nfull.webp
+dorr.webp: sb-instagram-feed-images/766952504_17963293578151010_5358259208469355847_nfull.webp
+snickeri.webp: sb-instagram-feed-images/778755787_17965559523151010_8046428125782983433_nfull.webp
+aterbruk.webp: sb-instagram-feed-images/703936117_871613705962028_6370763703027417774_nfull.webp
+phanterbygg-film.mp4: 2025/02/topfilm.mp4
+favicon.png: https://www.phanterbygg.se/wp-content/uploads/2024/10/cropped-cropped-Original-1-1024x319__1_-removebg-preview-1-192x192.png
+
+Typsnitt: DM Sans och Playfair Display, Google Fonts. SIL Open Font License, se OFL-filerna.
+Pilikon: Tabler Icons arrow-right, MIT, https://github.com/tabler/tabler-icons.
+
+Ytterligare egna projektbilder från nuvarande .se-sajt, hämtade 2026-10-22:
+hantverk-ute.webp — https://www.phanterbygg.se/wp-content/uploads/2025/01/Bild-1.jpg
+platsbyggd-hall.webp — https://www.phanterbygg.se/wp-content/uploads/2025/01/IMG_1090-1-scaled.jpeg
+platsbyggd-forvaring.webp — https://www.phanterbygg.se/wp-content/uploads/2025/01/IMG_1092-1-scaled.jpeg
+koksrenovering.webp — https://www.phanterbygg.se/wp-content/uploads/2024/10/image00048-scaled.jpeg
+pergola.webp — https://www.phanterbygg.se/wp-content/uploads/2024/10/image00044-scaled.jpeg
+fonster-tegel.webp — https://www.phanterbygg.se/wp-content/uploads/2024/10/image00077-scaled.jpeg
+dorr-verkstad.webp — https://www.phanterbygg.se/wp-content/uploads/2024/10/image00062-scaled.jpeg
+fasad-tra.webp — https://www.phanterbygg.se/wp-content/uploads/2025/01/IMG_2220-scaled.jpeg
+byggnadsvard-stomme.webp — https://www.phanterbygg.se/wp-content/uploads/2025/01/75844557128__712781CC-AF55-40AF-B386-DAF0D905B6F4-scaled.jpeg
+utemiljo.webp — https://www.phanterbygg.se/wp-content/uploads/2025/01/IMG_1081-scaled.jpeg
+
+-600-varianter: proportionellt förminskade WebP-versioner av respektive bild.
+hero-hall-900.webp och hero-hall-1920.webp: samma original som platsbyggd-hall.webp.
+Public Sans: lokal återanvändning av font från tidigare JK Bygg-design. Ursprung Google Fonts, SIL Open Font License, se Public-Sans-LICENSE.txt.
